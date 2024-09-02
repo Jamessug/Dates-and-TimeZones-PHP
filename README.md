@@ -1,1 +1,1 @@
-# Dates-and-TimeZones-PHP
+Practice with dates and timezones PHP
